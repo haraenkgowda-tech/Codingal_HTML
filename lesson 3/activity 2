@@ -1,0 +1,45 @@
+<html> 
+<body?
+<ul> 
+<li>japan</li> 
+<li>inida</li> 
+<li>america</li> 
+<li>china,/china</li> 
+</ul> 
+
+<ol> 
+<li>japan</li> 
+<li>inida</li> 
+<li>america</li> 
+<li>china,/china</li> 
+</ol> 
+
+<dl> 
+<dt>india </dt> 
+<dd>india is a country in southern asia</dd> 
+<dt>japan</dt> 
+<dd>japan is the eastern most country</dd> 
+</dl> 
+
+<table border = "5" 
+<tr> 
+<th>name</th> 
+<th>age</th> 
+<th>gender</th> 
+</tr> 
+<tr> 
+<td>john</td>
+        <td>25</td>
+        <td>male</td>
+      </tr>
+      <tr>
+        <td>jane</td>
+        <td>22</td>
+        <td>female</td>
+      </tr>
+    </table>
+  
+
+  </body>
+</html>
+
