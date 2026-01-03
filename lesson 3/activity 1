@@ -1,0 +1,12 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+<title>learn about links</title> 
+</head> 
+<body> 
+<h2>this is how you insert a link in html page</h2> 
+<a href="https://www.google.com/">this is the link to go to google</a> 
+</body> 
+
+</html> 
+
