@@ -1,0 +1,12 @@
+<html> 
+<head> 
+<title>how to add media into html page</title> 
+</head> 
+<body> 
+<h1>this how you insert image to a html file</h1> 
+<center> 
+<img src https:"//media.tacdn.com/media/attractions-splice-spp-674x446/07/b7/3e/96.jpg" width=600 length=1000> 
+</center> 
+
+</body> 
+</html> 
