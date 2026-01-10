@@ -1,0 +1,51 @@
+<html> 
+<head>
+<titlelearn about semantics elements in HTML</html> 
+</head> 
+<body>
+<header>
+<nav> 
+<ul>
+<li><a href="index.html">Home</a></li> 
+<li><a href="about.html">About</a></li> 
+<li><a href="galery.html">Galery</a></li> 
+</ul> 
+</nav> 
+</header> 
+<main> 
+<h1>Welcome to my website</h1> 
+<p>This is my first website.</p> 
+</main> 
+<section> 
+<article> 
+<h2>facts about dogs</h2> 
+<p> 
+dogs have a sense of time.its been proven that they can tell the difference between an hour and five.if conditioned to they can predict the future like for going a walk and so.
+</p> 
+</article> 
+<aside> 
+<aside> 
+<p> 
+A study was done on dogs and thier ability to predict the future.it was found that dogs can predict the future with an accuaracy of 90%.
+</p> 
+</aside> 
+</section> 
+<figure> 
+<img src="https://www.youtube.com/shorts/xizCjjwdhIw?feature=share" alt="dog" width="500" height+"250"> 
+</figure> 
+<iframe width="315" height="576" src="https://www.youtube.com/shorts/xizCjjwdhIw?feature=share">
+</iframe> 
+</main> 
+<footer> 
+<p>Copyright &copy; 2026</p> 
+</footer>
+</body> 
+</html> 
+<li><a href="about.html"<about</li> 
+<p> 
+this web page is created by haraen.
+</p> 
+<li><a href="gallery"</a</li> 
+<img src="https://media.gettyimages.com/id/1465997070/photo/portrait-of-white-pomeranian-on-field-indirapuram-india.jpg?s=612x612&w=gi&k=20&c=1yY1QGs5aKrbJeV_gzDJorDCbTJM6To2_Uqyoll5Ux0=" 
+<img src="https://snipstock.com/puppylovers123-puppy-cute-animals/"
+<img src="https://gmdckalakote.in/?i=38912453141910" 
