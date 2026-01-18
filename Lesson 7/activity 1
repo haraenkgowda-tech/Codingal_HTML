@@ -1,0 +1,32 @@
+<html> 
+<head> 
+<title> CSS Styling examples </title> 
+<style> 
+colour: green; 
+} 
+</style> 
+<link rel="style sheet" href="style.css"> 
+</head>
+<body>
+<hr>
+<h1 style="color: red>INLINE CSS EXAMPLE 
+<h2 >INTERNAL CSS EXAMPLE</h2> 
+<h3     EXTERNAL CSS EXAMPLE<h3>
+<hr> 
+
+<h4>ELEMENT SELECTOR EXAMPLE<h4> 
+<h4>ELEMENT SELECTOR EXAMPLE<h4> 
+<hr> 
+
+<h2 class="my class">CLASS SELECTOR EXAMPLE</h2> 
+<h2 id="myid">ID SELECTOR</h2>
+<h2 class="my class">CLASS SELECTOR EXAMPLE</h2> 
+<h3> 
+
+<h5>GROUP SELECTOR EXAMPLE</h5> 
+<p>GROUP SELECTOR EXAMPLE</p>
+<hr> 
+
+</body> 
+</html>
+
