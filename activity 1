@@ -1,0 +1,19 @@
+<html> 
+<head> 
+<title>Adding background using css</title> 
+<style>
+body{ 
+background-color: yellow;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O36EV7D5BOemxVRnmWmTkfR3MxQL0VTefg&s); 
+background-repeat: no-repeat; 
+background-position: top right; 
+background-attachment: fixed; 
+} 
+</style>
+</head> 
+<body>
+<h1>Welcome to my website</h1>
+<p> this is a paragraph
+</body>
+</html> 
+
