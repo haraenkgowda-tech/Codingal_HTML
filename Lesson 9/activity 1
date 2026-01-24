@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+htm { 
+font-size : 20px; 
+background-color: black; 
+color : white; 
+font-family: Arial; 
+} 
+#test { 
+    background-color: aqua;
+    color: black; 
+    font-size: 25px; 
+    text-align: justify; 
+} 
+</style>
+</head>
+<body>
+    <p>Web devolopment is the work invovlved in devoloping a web site for the internet </p>
+    <div id="test">A more comprehensive list of tasks to which web devolopment commonly refers includes web design, web content devolopment, client-side/server-side scripting and network security configuration, among other tasks.</div> 
+</body> 
+</html> 
