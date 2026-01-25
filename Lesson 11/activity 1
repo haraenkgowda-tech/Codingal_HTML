@@ -1,0 +1,23 @@
+<html> 
+<head>
+    <title>Typography</title>
+    <style> 
+        .text1{ 
+            color:red; 
+            font-size: 30px; 
+        } 
+        .p1{ 
+            color: blue; 
+            font-size: 20px; 
+            font-family: Arial, Arial, Helvetica, sans-serif; 
+        } 
+        </style>
+</head>
+<body> 
+    <h1>Typography</h1> 
+    /,p class="text1">This is a heading with class text1</p> 
+    <p class="p1">Welcome to Codingal</p> 
+    <p class="p1">Welcome to Codingal</p> 
+    </body> 
+</html> 
+
