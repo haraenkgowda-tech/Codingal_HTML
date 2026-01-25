@@ -1,0 +1,43 @@
+<html>
+<head> 
+    <title>Typography</title> 
+    <style>
+        .text1{ 
+            color:red; 
+            font-size: 30px; 
+        } 
+        .p1{
+            color:green; 
+            font-size: 25px; 
+            font-family: 'Courier New', Courier, monospace;
+        }   
+        .p2{
+            color: yellowgreen; 
+            font-size: 20px; 
+            font-family: Arial, Arial, Helvetica, sans-serif; 
+        } 
+        .text2{ 
+            color: rgb(104, 19, 19); 
+            font-size: 15px;  
+            font-family: 'Times New Roman', Times, serif; 
+        }
+        </style>  
+</head> 
+<body> 
+    <h1>Typography</h1> 
+    <p class="text1"> my favourtie hobbies are playing cricket , football , volleyball and of course video games</p> 
+    <p class="p2"> my favourtie food are biryani , noodles , pizza and ice-cream</p> 
+    <p class="text2"> my favourtie subjects are maths , science , social studies and computer science</p> 
+    <p class="p1">My personal imformation are : 
+        name : Haraen <br> 
+        age : 11 <br> 
+        school : NPS Begur silkboard <br> 
+        grade : 5th 
+        parent's name : Krishnaiha and Deepu <br> 
+        addres : Bangalore. begur bommanalhi<br>
+    </p> 
+</body> 
+</html> 
+    
+    
+    
