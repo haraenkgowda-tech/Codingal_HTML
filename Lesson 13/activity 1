@@ -1,0 +1,15 @@
+<html>
+ <style> 
+   input[type="passweord"]{ 
+    border: 3px solid blue; 
+   } 
+   input[type="text"]{ 
+    border: 3px solid green;
+   
+   </style> 
+   <body>
+    <input type="text" placeholder="Text input" 
+    <input type="password" placeholder="password input" 
+   </body>
+</html> 
+    
