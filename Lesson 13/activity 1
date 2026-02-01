@@ -1,6 +1,6 @@
 <html>
  <style> 
-   input[type="passweord"]{ 
+   input[type="password"]{ 
     border: 3px solid blue; 
    } 
    input[type="text"]{ 
@@ -9,7 +9,6 @@
    </style> 
    <body>
     <input type="text" placeholder="Text input" 
-    <input type="password" placeholder="password input" 
+    <input type="password" placeholder="Password input"  
    </body>
 </html> 
-    
