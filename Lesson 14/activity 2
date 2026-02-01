@@ -1,0 +1,22 @@
+<html> 
+    <head> 
+        <style> 
+       img#flowerRight{ 
+        float:right
+       } 
+       img#flowerLeft{ 
+        float:left 
+       } 
+        </style> 
+    </head> 
+    <body> 
+         
+        <h2>Float Right</h2> 
+
+        <p>in this example, the image will float to the right in the paragraph, and the text in the paragraph will wrap around the image.</p>
+        <img id="flowerRight" src="https://www.w3schools.com/css/img_flwr.gif" alt="Flower" width="100" height="142"> 
+        <img id="flowerLeft" src="https://www.w3schools.com/css/img_flwr.gif" alt="Flower" width="100" height="142">  
+        this is a dummy content used to understand float property 
+    </p> 
+    </body> 
+    </html> 
