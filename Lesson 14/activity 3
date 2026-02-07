@@ -1,0 +1,55 @@
+<html> 
+<head> 
+    <title> hometown tourist places </title> 
+    <style> 
+        .tourist-spot{ 
+            border: 2px solid black; 
+            padding: 10px; 
+            margin: 10px; 
+            width: 300px; 
+            float: left;  
+
+        } 
+        <img src="https://res.cloudinary.com/dyiffrkzh/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_400,q_auto,w_700/v1692702068/bbj/gte5uudgqspoituo79da.jpg"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K3Gp04wCSAsuFlWkKlDMkM_v_UYlPQaCyA&s"> 
+        <p>https:Ramanagara, known as the "Land of Seven Hills" and famous for the Sholay movie shooting, offers popular tourist spots including Ramadevara Betta, Savandurga Hill, Janapada Loka, and Mekedatu. Other key attractions include Kanva Reservoir, SRS Hills, Chunchi Falls, and the silk cocoon market. 
+Here is a list of top tourist places in and around Ramanagara:
+Hills and Trekking
+Ramadevara Betta: Famous for a 1000-year-old temple and the vulture sanctuary.
+Savandurga Hill: One of the largest monolith hills in Asia, ideal for trekking.
+SRS Hills (Sri Revanna Siddeshwara Betta): A sacred hill with a Shiva temple.
+Kabbaladurga: A fort located on a hill popular for night trekking.
+Sholay Shooting HillTop: The location where the classic movie Sholay was filmed. 
+Nature and Sightseeing
+Mekedatu: A scenic spot where the Kaveri River flows through a deep gorge.
+Chunchi Falls: A waterfall surrounded by rocky landscapes near Kanakapura.
+Kanva Reservoir: A calm, artificial lake suitable for picnics.
+Manchanabele Dam: Known for its scenic water views.
+Arkavati River: A relaxing, scenic spot. 
+Culture and Shopping
+Janapada Loka: A museum displaying the folk culture of Karnataka.
+Channapatna: Known as the "Toy Town of India" for its traditional lacquer wooden toys.
+Ramanagara Silk Cocoon Market: One of the largest silk markets in India. 
+Religious Sites
+Kengal Anjaneya Swamy Temple: A well-known temple.
+Navaneetha Krishna Temple: Located in the Ramanagara district.
+Doddamaluru Aprameya Temple: A historic temple. 
+Other Major Hills (Seven Hills)
+Yatirajagiri, Shivaramagiri, Somagiri, Krishnagiri, Sidilakallu Betta, and Jalasiddeshawara Betta. </p> 
+</style> 
+</head> 
+<body> 
+    <h1> Tourist places in my hometown Ramanagara </h1> 
+    <div class="tourist-spot"> 
+        <h2> Ramadevara Betta </h2> 
+        <img src="https://res.cloudinary.com/dyiffrkzh/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_center,h_400,q_auto,w_700/v1692702068/bbj/gte5uudgqspoituo79da.jpg" alt="Ramadevara Betta"> 
+        <p> Ramadevara Betta is renowned for its ancient temple dedicated to Lord Rama and its status as a vulture sanctuary. The hill offers panoramic views and is a popular spot for trekking enthusiasts. Visitors can explore the temple, enjoy the natural beauty, and observe the diverse birdlife in the area. </p> 
+    </div> 
+
+    <div class="tourist-spot"> 
+        <h2> Savandurga Hill </h2> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5K3Gp04wCSAsuFlWkKlDMkM_v_UYlPQaCyA&s" alt="Savandurga Hill"> 
+        <p> Savandurga Hill is one of the largest monolith hills in Asia, making it a significant attraction for trekkers and nature lovers. The hill features two peaks, Karigudda (Black Hill) and Biligudda (White Hill), each offering unique trekking experiences. The area is also home to various flora and fauna, making it a great spot for wildlife enthusiasts. </p> 
+    </div> 
+    </body> 
+</html>
