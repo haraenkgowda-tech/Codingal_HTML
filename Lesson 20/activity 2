@@ -1,0 +1,23 @@
+<html> 
+    <html lang="en"> 
+        <head> 
+            <title>mark</title> 
+            <meta charset="utf-8"> 
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> 
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.js"></script>
+        </head>
+        <body> 
+            <p>CO/<sub>2</sub></p>
+            <p>a<sup>2</sup></p> 
+            <Div class="container"> 
+                <h1>Highlight text</h1> 
+                <p>Use the mark element to <mark>highlight</mark> text.</p>
+            </Div>
+            <div class="container"> 
+                <h1>code snippets</h1> 
+                <p>Use the code element to define a piece of computer code. The content inside is displayed in the browser's default monospace font.</p>
+                <p>For example: <code>&lt;div&gt;</code> defines a division or a section in an HTML document.</p>
+            </div>      
+        </body>
+    </html>
