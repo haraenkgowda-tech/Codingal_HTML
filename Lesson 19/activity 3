@@ -22,7 +22,7 @@
 <p>Resize the browser window to see the effect.</p>
  <div class="row">
 
-<div class="col-lg-4" style="background-color: yellow;
+<div class="col-lg-4" style="background-color: yellow;"> 
 
 dummy
  </div>
@@ -33,5 +33,5 @@ dummy
 </div>
  </div>
  </div>
- </body> 
- </html>
+</body> 
+</html>
