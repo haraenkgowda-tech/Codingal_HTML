@@ -1,0 +1,30 @@
+<html> 
+    <head> 
+        <title>repl.it</title> 
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"> 
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.js"></script> 
+    </head> 
+        <body> 
+            <h1>Abbreviations</h1>
+            <p>It is used to mark up an abbreviation or acronym:</p> 
+            <p><abbr title="codingal">cdgl</abbr>was founded in 2020.</p>
+
+            <h1>blockquote</h1> 
+            <p>It is used to mark up a section that is quoted from another source:</p>
+            <blockquote> 
+           <p>Codingal is on a mission  the school kids</p> 
+           <footer class="blockquote-footer">- Codingal</footer>
+           </blockquote> 
+           <h1>Multiple code lines</h1>  
+           <p>For Multiple lines of code.use the pre element:</p> 
+           <pre> 
+            for i in range(0,10): 
+            print(i+"+"x"+"3"=+i*3)
+              </pre> 
+
+              <h1>Keyboard inputs</h1> 
+              <p>to indicate input that should be entered via the keyboard, use the kbd element:</p> 
+              <p><kdb>ctrl</kdb>+<kdb>c</kdb> to copy.</p> 
+              <p><kdb>ctrl</kdb>+<kdb>v</kdb> to paste.</p> 
+            </body> 
+</html>    
