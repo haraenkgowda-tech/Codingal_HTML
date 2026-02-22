@@ -6,16 +6,6 @@
     <title>Full width containers</title> 
 </head>
 <body>
-    <div class="container bg-success text-white"> 
-        <h1>My first bootstrap page</h1> 
-        <p>this part is inside a .container class.</p> 
-        <p>the .container class provides a responsive fixed width container.</p> 
-
-    </div> 
-    
-        <h1>My first bootstrap page</h1> 
-        <p>this part is inside a .container-fluid class.</p> 
-        <p>the .container-fluid class provides a full width container, spanning the entire width of the viewport.</p> 
-</div> 
+    <div 
 </body>
 </html>
