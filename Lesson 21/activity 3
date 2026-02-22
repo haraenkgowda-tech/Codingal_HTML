@@ -1,0 +1,44 @@
+<html> 
+<head>
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"> 
+    <title>Fluid container</title> 
+</head>
+<body> 
+<div class="container border border-dark p-3 my-3"> 
+<h1>this is a sample heading </h1> 
+<p> this is a sample paragraph.</p> 
+</div> 
+ 
+ <div class="container bg-primary text-white p-3 my-3"> 
+<h1>this is a sample heading </h1> 
+<p> this is a sample paragraph.</p> 
+</div> 
+
+<div class="container bg-secondary text-white p-3 my-3"> 
+<h1>this is a sample heading </h1> 
+<p> this is a sample paragraph.</p> 
+</div> 
+ 
+ <div class="container bg-success text-white  p-3 my-3"> 
+<h1>this is a sample heading </h1> 
+<p> this is a sample paragraph.</p> 
+</div> 
+
+<div class="container bg-danger text-white p-3 my-3"> 
+<h1>this is a sample heading </h1> 
+<p> this is a sample paragraph.</p> 
+</div>
+ 
+ <div class="container bg-warning text-white p-3 my-3"> 
+<h1>this is a sample heading </h1> 
+<p> this is a sample paragraph.</p> 
+</div> 
+
+<div class="container bg-info text-white p-3 my-3"> 
+<h1>this is a sample heading </h1> 
+<p> this is a sample paragraph.</p> 
+</div> 
+</body> 
+</html>
