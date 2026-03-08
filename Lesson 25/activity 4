@@ -1,0 +1,30 @@
+<html> 
+<body> 
+    <title>My favourite animals</title> 
+    <h1>My favourite animals</h1>
+    <p>My favourite animals are dogs and cats. I like dogs because they are loyal and friendly. I like cats because they are independent and playful.</p>
+    <p>Dogs are great companions and can be trained to do many things. They are also good for security and can protect their owners. Cats are great for keeping pests away and can be very affectionate. They are also great for people who live in apartments because they don't need as much space as dogs.</p> 
+    <p>Overall, I think both dogs and cats are wonderful animals and I love them both!</p> 
+     
+    <div class="container" 
+        style="border: 1px solid black; padding: 10px; margin-top: 20px;"> 
+        <h2>Fun Facts about Dogs and Cats</h2> 
+        <ul> 
+            <li>Dogs have been domesticated for over 15,000 years.</li> 
+            <li>Cats were worshipped in ancient Egypt and were considered sacred.</li> 
+            <li>Dogs have a sense of smell that is 40 times better than humans.</li> 
+            <li>Cats can jump up to six times their body length.</li> 
+            <li>Dogs can understand up to 250 words and gestures.</li> 
+            <li>Cats have a unique grooming behavior that helps them stay clean and healthy.</li> 
+        </ul> 
+          
+        <img src="https://images.unsplash.com/photo-1552053831-71594a27632d?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZG9nc3xlbnwwfHwwfHx8MA%3D%3D" 
+            alt="A cute dog" 
+            style="width: 300px; height: auto; margin-top: 10px;"> 
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/002/098/203/small/silver-tabby-cat-sitting-on-green-background-free-photo.jpg"
+                alt="A cute cat"
+                style="width: 300px; height: auto; margin-top: 10px;">
+        </div>  
+
+</body> 
+</html> 
