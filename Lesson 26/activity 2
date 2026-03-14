@@ -1,0 +1,26 @@
+<html> 
+    <head> </head>
+    <body>
+        <button    onclick="add(2,3)">click to add</button> 
+        <button    onclick="subtract(6,5)">click to subtract</button>  
+        <button    onclick="multiply(2,3)">click to multiply</button>  
+        <button    onclick="divide(6,3)">click to divide</button> 
+         <p id="myH"></p> 
+        <script> 
+            function add(a,b){ 
+           document.getElementById("myH").innerHTML = a+b; 
+            } 
+            function subtract(a,b){ 
+           document.getElementById("myH").innerHTML = a-b; 
+            }  
+            function multiply(a,b){
+              document.getElementById("myH").innerHTML = a*b; 
+                } 
+            function divide(a,b){
+              document.getElementById("myH").innerHTML = a/b;
+                }  
+       
+        </script> 
+        
+    </body>      
+</html>   
