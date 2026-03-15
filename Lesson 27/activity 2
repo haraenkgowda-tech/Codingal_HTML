@@ -1,16 +1,2 @@
-<html> 
-    <body> 
-        <h2> Javascript for loops</h2> 
-        <p id="demo"></p> 
-        <script> 
-            var fruits = ["Banana", "Orange", "Apple", "Mango"]; 
-            var text = "";
-            var i; 
-            for (i = 0; i < fruits.length; i++) { 
-                text += fruits[i] + "<br>"; 
-            } 
-            document.getElementById("demo").innerHTML = text;
-        </script>
-
-    </body> 
-</html> 
+    <html>     <body>         <h2> Javascript for loops</h2>         <p id="demo"></p>         <script>             var fruits = ["Banana", "Orange", "Apple", "Mango"];             var text = "";            var i;             for (i = 0; i < fruits.length; i++) {                 text += fruits[i] + "<br>";             }             document.getElementById("demo").innerHTML = text;        </script>    </body> </html> 
+0 commit commentsComments0 (0)Lock conversation    
