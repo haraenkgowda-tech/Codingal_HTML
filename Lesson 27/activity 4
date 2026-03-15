@@ -1,0 +1,30 @@
+<html> 
+<body> 
+    <h2>Making a similar project to the fruits project</h2>
+    <p id="demo"></p> 
+    <script> 
+        var fruits=["Banana", "Orange", "Apple", "Mango"];
+        var vegetables=["Tomato","Cucumber","Carrot","Broccoli"];
+        var drinks=["Water","Juice","Soda","Tea"];
+        var text = "";
+        var i;
+        for (i = 0; i < fruits.length; i++) { 
+            text += fruits[i] + "<br>"; 
+        }
+        for (i = 0; i < vegetables.length; i++) { 
+            text += vegetables[i] + "<br>"; 
+        }
+        for (i = 0; i < drinks.length; i++) { 
+            text += drinks[i] + "<br>"; 
+        }
+        document.getElementById("demo").innerHTML = text;
+         
+        var text = "Fruits, Vegetables, Drinks"; 
+           document.write(text.toUpperCase()); 
+              document.write("<br>");
+              document.write(text.toLowerCase());
+                document.write("<br>");
+                document.write(text.startsWith("F"));  
+    </script> 
+</body> 
+</html>  
