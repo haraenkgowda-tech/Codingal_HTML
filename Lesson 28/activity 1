@@ -1,0 +1,15 @@
+<html>
+    <body> 
+        <h2> 
+            Javascript objects and its properties 
+        </h2>
+        <p>There are two different ways to access an object property</p> 
+        <p>You can use .property or you can use ['property']</p> 
+        <p id="demo"></p> 
+        <script> 
+        var person = {firstname:"John", lastname:"Doe", age:50, eyeColor:"blue"}; 
+        document.getElementById("demo").innerHTML = person.firstname + " is " + person.age + " years old."; 
+        </script>
+    </body>
+</html>
+           
