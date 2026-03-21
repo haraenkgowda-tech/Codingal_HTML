@@ -1,0 +1,21 @@
+<html> 
+    <head> 
+        <title>javascript math object methods   </title>
+    </head> 
+    <p id="result"></p> 
+    <script>  
+    function max() {
+        var j;
+        var highest=0;
+        for (j = 0; j < arguments.length; j++) {
+            if (arguments[j] > highest) {
+                highest = arguments[j];
+            }
+        }        return highest;  
+    } 
+    document.getElementById("result").innerHTML = max(1, 2, 4 , 3, 6 ,8 ,2 ,10); 
+
+
+    </script> 
+    </body> 
+</html>
