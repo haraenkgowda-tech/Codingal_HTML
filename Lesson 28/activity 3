@@ -1,0 +1,19 @@
+<html>
+<head> 
+    <title>javascript math object methods</title>
+</head>
+<body>
+    <script type="text/javascript"> 
+     var value = Math.abs(-20);
+       document.write("Demo test value: " + value + "<br>");
+        var value = Math.acos(-1);
+         document.write("Demo1 test value: " + value + "<br>");
+          var value = Math.asin(1);
+           document.write("Demo2 test value: " + value + "<br>");
+           var value = Math.atan(.5);
+            document.write("Demo3 test value: " + value + "<br>");
+            </script>
+</body>
+</html> 
+
+              
