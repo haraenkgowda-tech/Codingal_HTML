@@ -1,0 +1,21 @@
+<html> 
+    <body> 
+        <h2>Javascript Array Methods</h2> 
+        <h2>Join() and pop()</h2>
+        <p>Join() method is used to join all the elements of an array into a string. It takes an optional parameter which is the separator to be used between the elements. If no separator is provided, it defaults to a comma.</p>
+        <p>Pop() method is used to remove the last element from an array and returns
+that element. It modifies the original array.</p>
+        </p> 
+        <p id="my join"></p> 
+        <p id="myfirstpop"></p>
+        <p id="mysecondpop"></p>
+        <script>
+            var fruits = ["Banana", "Orange", "Apple", "Mango"]; 
+
+            document.getElementById("my join").innerHTML = fruits.join(" * ");
+            document.getElementById("myfirstpop").innerHTML = fruits.pop();
+            document.getElementById("mysecondpop").innerHTML = fruits.pop();
+        </script>   
+    </body>
+</html>
+    
