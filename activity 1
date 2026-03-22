@@ -1,0 +1,26 @@
+<html> 
+    <body> 
+        <h2>Javascript Array Methods</h2> 
+        <p id = "demo"></p> 
+        <p id = "mypara"></p> 
+        <p id = "mypara1"></p>
+        <p id = "mypara2"></p> 
+        <p id = "mypara3"></p> 
+        <p id = "mypara4"></p>
+        <p id = "mypara5"></p> 
+       
+        <script>
+            var car = ["Saab","volvo","BMW","Mercedes","Audi","Toyota"];
+            document.getElementById("demo").innerHTML = car; 
+            document.getElementById("mypara").innerHTML = car[2]; 
+            document.getElementById("mypara1").innerHTML = car[1]; 
+            document.getElementById("mypara2").innerHTML = car[0]; 
+            document.getElementById("mypara3").innerHTML = car[3];
+            document.getElementById("mypara4").innerHTML = car[4];
+            document.getElementById("mypara5").innerHTML = car[5];      
+        
+                                                                               
+            </script> 
+    </body>
+</html> 
+            
