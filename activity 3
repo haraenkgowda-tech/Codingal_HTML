@@ -1,0 +1,13 @@
+<html> 
+    <head> 
+        <title>arrow functions  </title>
+    </head>
+    <body> 
+        <h2>JS arrow functions</h2> 
+        <p id="demo"></p>
+        <script>
+            const sum = (a, b) => a + b;
+            document.getElementById("demo").innerHTML = sum(5, 10);
+        </script>
+    </body>
+</html>
