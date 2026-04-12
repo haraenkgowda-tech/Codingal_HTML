@@ -1,0 +1,18 @@
+<html> 
+    <head> 
+        <title>Javascript string methods</title>
+    </head>
+    <body>
+        <h2>Javascript string methods</h2>
+        <p>the string() method is used to convert a number to a string.</p> 
+        <p id="numresult"></p>
+        <p id="stringresults"></p>
+        <script>
+        var x = 11;
+        var y = 22; 
+
+        document.getElementById("numresult").innerHTML = x + y;
+        document.getElementById("stringresults").innerHTML = String(x) + String(y); 
+        </script>
+    </body>
+</html>    
