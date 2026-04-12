@@ -1,0 +1,30 @@
+<html> 
+<head> 
+<title>arrows,error handling and string methods in JS</title>
+</head>
+<body>
+<h2>Arrows, error handling and string methods in JS</h2> 
+<p id="numresult"></p>
+<p id="stringresult"></p>
+<p id="errorresult"></p>
+<p id="demoresult"></p>
+<script>
+var x = 11;
+var y = 22; 
+document.getElementById("numresult").innerHTML = x + y;
+document.getElementById("stringresult").innerHTML = String(x) + String(y);
+try {
+    adddlert("Welcome to my website!");
+}
+catch(err) {
+    document.getElementById("errorresult").innerHTML = err.message;
+} 
+const sum = (a, b) => a + b;
+function demo() { 
+    document.getElementById("demoresult").innerHTML = sum(10, 10); 
+
+}
+demo();
+</script>
+</body>
+</html>
