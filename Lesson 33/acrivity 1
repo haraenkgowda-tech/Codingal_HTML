@@ -1,0 +1,50 @@
+<html> 
+    <head>  
+        <meta charset="UTF-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <title>Calculator</title>
+    
+     <link rel="stylesheet" href="style.css">
+    </head>
+    <body> 
+        <div class="calc" 
+        <div class="grid">
+        <input id="result" type="text" placeholder="result" readonly> 
+        
+        <button class="button op" onclick="setScreenvalue( '+')">+</button>  
+        <! -- Row 1 -- > 
+        <button class="btn" onclick="setScreenvalue( '1')">1</button> 
+        <button class="btn" onclick="setScreenvalue( '2')">2</button> 
+        <button class="btn" onclick="setScreenvalue( '3')">3</button> 
+        <button class="button op" onclick="setScreenvalue( '-')">-</button> 
+
+
+        <! -- Row 2 -- >                                                           
+        <button class="btn" onclick="setScreenvalue( '4')">4</button> 
+        <button class="btn" onclick="setScreenvalue( '5')">5</button>  
+        <button class="btn" onclick="setScreenvalue( '6')">6</button> 
+        <button class="button op" onclick="setScreenvalue( '*')">x</button> 
+        <button class="btn" onclick="setScreenvalue( '6')">6</button> 
+        <button class="button op" onclick="setScreenvalue( '*')">x</button>  
+        
+         
+        
+        <! -- Row 3 -- >
+        <button class="btn" onclick="setScreenvalue( '7')">7</button> 
+        <button class="btn" onclick="setScreenvalue( '8')">8</button> 
+        <button class="btn" onclick="setScreenvalue( '9')">9</button>
+        <button class="button op" onclick="setScreenvalue( '/')">/</button> 
+         
+
+        <! -- Row 4 -- >    
+        <button class="btn" onclick="setScreenvalue( '0')">0</button>
+        <button class="btn" onclick="setScreenvalue( '=')">=</button>         
+        </div>      
+         
+        <button class="clear" onclick="clearScreen()">CLEAR</button> 
+    </div>
+    <script src="script.js"></script>
+    </body>
+</html>
+     
+   
