@@ -1,0 +1,9 @@
+<html> 
+<head> 
+    <title>Palindrome<title> 
+     <script type="text/javascript" src="pal.js"></script>
+</head>
+<body>
+    <h2>javascript palindrome checking function</h2> 
+</body>
+</html>

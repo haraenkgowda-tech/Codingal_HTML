@@ -1,0 +1,18 @@
+<html> 
+<head> 
+     <title>to-do-list</title> 
+</head>
+     <body> 
+        <h3>add your to-do-list here</h3>
+
+        <form id="myForm">
+            <input id="myInput"  text="text"> 
+            <button>ADD</button>
+
+
+        </form> 
+        <h3>to do list</h3>
+        <ul id="myItem"></ul>
+        <script src="script.js"></script>
+     </body> 
+</html> 
