@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>Clock</title>
+    <link rel="stylesheet" href="clock.css"> 
+</head>
+<body>
+    <div id="MyClockDisplay"></div>
+    <script src="clock.js"></script>
+</body>
+</html> 
